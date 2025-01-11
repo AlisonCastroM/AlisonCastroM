@@ -34,10 +34,10 @@ Soy una desarrolladora **full-stack** que está en constante aprendizaje y mejor
 ---
 
 ## 📄 Mi CV
-[Mi CV en FlowCV](https://app.flowcv.com/resume/content)
+[Alison Castro](https://app.flowcv.com/resume/content)
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/alisoncastro](https://www.linkedin.com/in/alison-castro-85b2b52b1/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/alisoncastro)
 [![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:alisoncastro7616@gmail.com)
 
