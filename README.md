@@ -10,7 +10,11 @@ Soy una desarrolladora full-stack que está en constante aprendizaje y mejora de
 ⚡ Dato curioso: Me encanta el café y los animales.
 
 
-![image](https://github.com/user-attachments/assets/e30facde-debc-4408-ba18-fe2dcab10dba)
+Tech Stack
 
+Frontend: ![image](https://github.com/user-attachments/assets/5096a031-ea05-41f3-916c-8e55e48bd1dd) ![image](https://github.com/user-attachments/assets/5ac200a3-0bd3-4a35-a85f-12aff3d68d01)
+ HTML5 CSS3 Bootstrap
+Backend: Python Flask SQL SQLAlchemy
+Other Tools: VS Code Postman Git
 
 
