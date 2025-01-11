@@ -38,6 +38,6 @@ Soy una desarrolladora **full-stack** que está en constante aprendizaje y mejor
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/alisoncastro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/alison-castro-85b2b52b1/)
 [![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:alisoncastro7616@gmail.com)
 
