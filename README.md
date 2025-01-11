@@ -21,11 +21,14 @@ Frontend: ![image](https://github.com/user-attachments/assets/5096a031-ea05-41f3
 
 
 
-Backend: ![image](https://github.com/user-attachments/assets/513421e6-d8b8-4f2b-ace2-37941a67e46b) ![image](https://github.com/user-attachments/assets/fa080baf-399f-479a-8df4-f99f19bc030e) ![image](https://github.com/user-attachments/assets/b8069a7e-f238-4349-a370-e959d021483f) ![image](https://github.com/user-attachments/assets/7d7f7dc6-20e3-45ac-ac94-e5b418e2f88b)
+Backend: ![image](https://github.com/user-attachments/assets/5d508239-7073-46a5-8cde-7f1c09690dcb) ![image](https://github.com/user-attachments/assets/fa080baf-399f-479a-8df4-f99f19bc030e) ![image](https://github.com/user-attachments/assets/b8069a7e-f238-4349-a370-e959d021483f) ![image](https://github.com/user-attachments/assets/7d7f7dc6-20e3-45ac-ac94-e5b418e2f88b)
 
 
 Other Tools:![image](https://github.com/user-attachments/assets/d4e2b8bb-8204-4dd0-869d-780e09fd5a65) ![image](https://github.com/user-attachments/assets/8052cc20-156d-4d78-a085-ae3f5bdf1bcf)
 
+Mi cv
+
+https://app.flowcv.com/resume/content
 
 
 
