@@ -34,7 +34,7 @@ Soy una desarrolladora **full-stack** que está en constante aprendizaje y mejor
 ---
 
 ## 📄 Mi CV
-[Alison Castro]([https://app.flowcv.com/resume/content](https://flowcv.com/resume/sbpta5pnil))
+[Alison Castro](https://flowcv.com/resume/sbpta5pnil)
 
 ## 🌐 Conéctate conmigo
 
